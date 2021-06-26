@@ -3,7 +3,7 @@ Pointers to (publicly shareable) technical stuff of mine. For an overview of my 
 # Coding and technical work
 ## AWS
 Working with Legal to release source code of browser extension developed to enhance productivity of my team, stay tuned!
-## Stanford work
+## Stanford
 Mostly found here (at least what could have been release to the public): https://code.stanford.edu/et-iedo-public
 Noteworthy projects:
 ### As Individual Contributor
@@ -15,5 +15,5 @@ Noteworthy projects:
   * [35+% reduction in outages or service degradations, and measuring it by means of text analysis on Slack](https://docs.google.com/presentation/d/1gL2RMtxxOYVuDHa2lmhADPzEFS8G_sZtPiZNvjlJ2fQ) How we brought an estimated 35+% reduction in outages throughout Stanford University, and -more importantly- how we assessed it.
 
 The rest is available only to Stanford employees. If you are: https://code.stanford.edu/et-iedo
-##  VMware work
+##  VMware
 Nice try :) I can't share any code produced there, for obvious reasons...  The only public work being disclosed is through my VMware-owned patent, "Automated bug detection with virtual machine forking", filed Aug 31, 2015. [USPTO 14/841,188](https://goo.gl/BLkG8M)
