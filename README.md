@@ -1,6 +1,8 @@
 # homepage
 Pointers to (publicly shareable) technical stuff of mine. For an overview of my experience, my Linkedin: https://www.linkedin.com/in/marcellogolfieri/
 # Coding and technical work
+## AWS
+Working with Legal to release source code of browser extension developed to enhance productivity of my team, stay tuned!
 ## Stanford work
 Mostly found here (at least what could have been release to the public): https://code.stanford.edu/et-iedo-public
 Noteworthy projects:
